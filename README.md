@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ## introduction
 
 This is an example of an introduction paragraph in the README.md file.
+
+## how to contribute

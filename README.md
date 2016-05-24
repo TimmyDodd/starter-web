@@ -13,3 +13,7 @@ This is an example of an introduction paragraph in the README.md file.
 ## How To Contribute
 
 email me at example@gmail.com
+
+### Copyright
+
+2016 Git.Training.

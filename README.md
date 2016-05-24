@@ -6,10 +6,10 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## introduction
+## Introduction
 
 This is an example of an introduction paragraph in the README.md file.
 
-## how to contribute
+## How To Contribute
 
 email me at example@gmail.com

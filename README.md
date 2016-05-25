@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. adding a line for rebasing example.
+This repository is for showing how Git and GitHub work. adding a line for rebasing example, then more changes from a branch too.
 
 ## Purpose
 
